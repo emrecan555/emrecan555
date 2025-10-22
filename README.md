@@ -1,14 +1,10 @@
 # HIYA! 🎮🦢
 
-![Profile Banner](https://github.com/zgeblbl/zgeblbl/assets/117914215/1125ecf2-c922-4bc2-a353-4e579c5d7cb6)
 
 ## About Me
 
 I'm an AI engineering undergrad in Hacettepe University with a passion for coding and AI. Currently, I'm focused on creating and being a part of all kinds of engaging projects.
 
-- 🥇 Got 1st place on Pura Game Jam '24!
-- 👯 I’m looking to collaborate.
-- 📫 How to reach me: ozgebul@gmail.com
 
 ## 🚀 My Skills
 
@@ -60,8 +56,6 @@ I'm an AI engineering undergrad in Hacettepe University with a passion for codin
 
 
 
-<!--
-**zgeblbl/zgeblbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
